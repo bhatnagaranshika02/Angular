@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script>
+		function fun1(){
+			var ob = document.getElementById("demo");
+			//alert(ob);
+			var txt = ob.innerHTML();
+			alert(txt)	}
+			function fun2(){
+				var ob = document.getElementById("list")
+				var ob2=document.getElementById("demo2")
+				alert(ob2.value);
+				//alert(ob2.type);
+				//alert(ob2.placeholder);
+				listob.innerHTML += "<li>" + ob2.value+"</li>";
+			}
+	</script>
+</head>
+<body>
+	<p id="demo"> Hello</p>
+	<ol id="list">
+		<li> Indore</li>
+		<li>Ujjain</li>
+	<button type="button" onclick="fun1()">Click</button>
+	<input id="demo2 type="text" placeholder="Enter city">
+
+</body>
+</html>

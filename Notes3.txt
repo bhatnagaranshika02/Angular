@@ -1,0 +1,17 @@
+js - client-side scripting.
+google - V8 engine : open source js
+               execution environmeny
+              --> wriitten in c++
+                   + modify
+
+V8 engine- Coverts js code into lower level or machine code that microsoft can understand.
+chrome. ECMAScript standard describe how langiage should works and what features it should have.
+
+Nodejs ->> Allow you to run JS scripts to the server. It is modify version of V8 engine allowing server side prorgaming and networking apps..
+** npm :- node package manager.
+To execute:- node ___.js   
+****************************************************************************************************************
+** npm init
+** npm install http
+** npm install -g http
+***************************************************************************

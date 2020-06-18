@@ -1,0 +1,17 @@
+AngularJS is a framework which can be provide us ease to develop dynamic web pages or single page application.
+
+Serverside+database => Java+mysql
+clientside => Javascript+jquery
+                       Ajax , JSON
+
+1. AngularJS => can written inside HTML, <script> tag.
+********************************************************************************************************************
+Angular 4 is a JavaScript framework for building web applications and apps in JavaScript, html, and TypeScript, which is a superset of JavaScript.
+ Angular provides built-in features for animation, http service, and materials which in turn has features such as auto-complete, navigation, toolbar, menus, etc.
+*********************************************************************************************************************
+Angular => Clientside
+java => server-side > servelets
+********************************************************************************************************************
+DOM:- When  a web web is loaded, dom get created of the page by browser. **Tree like structure.
+DOM is a class. Its object is 'document'. Object has many methods, getElementById etc.
+*******************************************************************************************************
