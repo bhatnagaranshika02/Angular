@@ -10,5 +10,23 @@ ES8 - 2017
 ES9 - 2018
 ****************************************************************
 Transpiler :- source-source compiler. One language to another.
-In angular there is typescript not javascript but browser cant 
+
+***In angular there is typescript not javascript but browser cant 
 understand it.
+
+**ECMA SCRIPT => 
+*******************************************************************
+
+		Server Request >>>> Thread >>>>> Processing >>>
+										Response <<<< Thread End
+		100 Threads , 1000 Threads
+
+		Apache >>> 200 threads
+				201 Req >>>> 200 Accept
+						1 Deny - server not responding
+
+					Blocking Pattern
+
+
+					UnBlocking Pattern
+					Single Thread Environment
