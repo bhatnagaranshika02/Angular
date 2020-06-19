@@ -1,0 +1,14 @@
+ECMA - EUropean computer manufacture association.
+version1 in 1997
+version in 1998
+....
+....
+Ecma 5 - 2011
+ES6 - 2015
+ES7 - 2016
+ES8 - 2017
+ES9 - 2018
+****************************************************************
+Transpiler :- source-source compiler. One language to another.
+In angular there is typescript not javascript but browser cant 
+understand it.

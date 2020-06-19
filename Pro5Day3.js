@@ -16,3 +16,15 @@ var fun2 = function()
 	console.log("fun2")
 }
 fun2()
+
+function test(abcd){
+	console.log("testing")
+	abcd()
+
+}
+test(fun1)
+//or 
+test(function() //anonymous
+{
+	console.log("hello code")
+})

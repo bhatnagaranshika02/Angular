@@ -14,4 +14,7 @@ To execute:- node ___.js
 ** npm init
 ** npm install http
 ** npm install -g http
+npm install http >>> install within project (it will cretae a folder 'node_moules' contains local modules)
+npm install -g http >>> install PC
+
 ***************************************************************************
